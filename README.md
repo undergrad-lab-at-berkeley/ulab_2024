@@ -1,11 +1,11 @@
 # ulab_2024
 
-Welcome to the beginning of your Python journey in ULAB! Here is the schedule for the 2024-2025 school year:
-
-Fall Semester (2024):
-9/16 - Install Anaconda + Intro Topics
-9/23 - Install GitBash + Command Line + Research Literacy
-9/30 - SSH Keys (*pain*) + GitHub (Push/Pull)
+Welcome to the beginning of your Python journey in ULAB! Here is the schedule for the 2024-2025 school year: \
+\
+Fall Semester (2024): \
+9/16 - Install GitBash + Intro Topics \
+9/23 - The Terminal +  + Research Literacy
+9/30 - GitHub push/pull
 10/7 - Data Types + Functions
 10/14 - Latex + Mental Health
 10/21 - Conditionals + Loops
