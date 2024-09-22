@@ -11,7 +11,7 @@ Fall Semester (2024): \
 10/21 - Conditionals + Loops \
 10/28 - Lists + Dictionaries \
 11/4 - NumPy Arrays \
-11/11 -  Introduction to Plotting \
+11/11 -  Introduction to Plotting 
 
 Spring Semester (2025): \
 1/20 - Python Review \
@@ -19,7 +19,7 @@ Spring Semester (2025): \
 2/3 - Pandas \
 2/10 - Astropy \
 3/3 - Curve-fitting with SciPy \
-3/10 - Advanced Plotting (+ bonus fun stuff) \
+3/10 - Advanced Plotting (+ bonus fun stuff) 
 
 \
 *_Subject to change_
