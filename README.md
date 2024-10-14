@@ -6,7 +6,7 @@ Fall Semester (2024): \
 9/16 - Install GitBash + Intro Topics \
 9/23 - The Terminal + Introduction to GitHub \
 9/30 - SSH Keys + GitHub \
-10/7 - Jupyter Notebook + Data Types \
+10/7 - Branching + Jupyter Notebook + Data Types \
 10/14 - Review \
 10/21 - Conditionals + Loops + Research Literacy \
 10/28 - Lists + Dictionaries \
