@@ -10,7 +10,7 @@ Fall Semester (2024): \
 10/14 - Review + Functions \
 10/21 - Iterables \
 10/28 - Numpy Arrays \
-11/4 - Introduction to Plotting \
+11/4 - Introduction to Plotting 
 
 Spring Semester (2025): \
 1/20 - Python Review \
