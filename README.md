@@ -7,7 +7,7 @@ Fall Semester (2024): \
 9/23 - The Terminal + Introduction to GitHub \
 9/30 - SSH Keys + GitHub \
 10/7 - Branching + Jupyter Notebook + Data Types \
-10/14 - Review \
+10/14 - Review + Functions \
 10/21 - Iterables \
 10/28 - Numpy Arrays \
 11/4 - Introduction to Plotting \
