@@ -9,7 +9,7 @@ Fall Semester (2024): \
 10/7 - Branching + Jupyter Notebook + Data Types \
 10/14 - Review + Functions \
 10/21 - Iterables \
-10/28 - Numpy Arrays \
+10/28 - Packages \
 11/4 - Introduction to Plotting 
 
 Spring Semester (2025): \
