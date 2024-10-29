@@ -9,8 +9,10 @@ Fall Semester (2024): \
 10/7 - Branching + Jupyter Notebook + Data Types \
 10/14 - Review + Functions \
 10/21 - Iterables \
-10/28 - Packages \
-11/4 - Introduction to Plotting 
+10/28 - Libraries + Modules \
+10/30 - LaTeX \
+11/4 - Introduction to Plotting \
+11/6 - Research Literacy \
 
 Spring Semester (2025): \
 1/20 - Python Review \
