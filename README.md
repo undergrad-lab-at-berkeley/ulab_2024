@@ -12,7 +12,7 @@ Fall Semester (2024): \
 10/28 - Libraries + Modules \
 10/30 - LaTeX \
 11/4 - Introduction to Plotting \
-11/6 - Research Literacy \
+11/6 - Research Literacy
 
 Spring Semester (2025): \
 1/20 - Python Review \
