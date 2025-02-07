@@ -15,11 +15,11 @@ Fall Semester (2024): \
 11/6 - Research Literacy
 
 Spring Semester (2025): \
-1/20 - Python Review \
-1/27 - Data with Numpy \
-2/3 - Pandas \
+1/20 - Fall Semester Review \
+1/27 - Pandas \
+2/3 - SciPy \
 2/10 - Astropy \
-3/3 - Curve-fitting with SciPy \
+3/3 - TBD \
 3/10 - Advanced Plotting (+ bonus fun stuff) 
 
 \
